@@ -10,6 +10,12 @@ Instructions for using tasklist and taskkill programs:
 1. If the inclued exe files do not work then compile it with Visual Studio or any other compiler
 2. Run tasklist-v1.0.exe or taskill-v1.0 (Note: Some processes may not be found or killed if not running with admin priviledges)
 3. Enter the option choice (0, 1, 2, or 3)
+
+NOTE:
+1. Some process information may not be found and returns Unknown.  
+2. Some process information may be found if running with admin priviledges.
+3. Some process names may not be found and cannot be killed by it image name.
+
 ```
 Tasklist options:
 ```
