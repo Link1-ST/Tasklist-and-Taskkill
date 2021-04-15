@@ -15,7 +15,6 @@ NOTE:
 1. Some process information may not be found and returns Unknown.  
 2. Some process information may be found if running with admin priviledges.
 3. Some process names may not be found and cannot be killed by it image name.
-
 ```
 Tasklist options:
 ```
