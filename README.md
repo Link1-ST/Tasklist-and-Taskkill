@@ -35,6 +35,5 @@ Taskkill options:
 1. /PID terminates process by its PID
 2. /IM  terminates process by its image name
 3. /T terminates the specified process and any child processes which were started by it
-
-![Tasklist Menu](https://user-images.githubusercontent.com/82185592/118516716-94da0380-b704-11eb-815a-26cffc094a45.jpg)
 ```
+![Tasklist Menu](https://user-images.githubusercontent.com/82185592/118516716-94da0380-b704-11eb-815a-26cffc094a45.jpg)
