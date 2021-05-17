@@ -12,10 +12,13 @@ Instructions for using tasklist and taskkill programs:
 3. Enter the option choice (0, 1, 2, or 3)
 
 NOTE:
-1. These tools only work locally. They prompt users for input (i.e. 0, 1, 2, and 3)
-3. Some process information may not be found and returns Unknown.  
-4. Some process information may be found if running with admin priviledges.
-5. Some process names may not be found and cannot be killed by it image name.
+1. These tools only work locally. They prompt users for input (i.e. 0, 1, 2, and 3).  
+2. To run the tools though the commandlime:
+   a. tasklist-v1.0.exe 
+   b. taskkill-v1.0.exe
+4. Some process information may not be found and returns Unknown.  
+5. Some process information may be found if running with admin priviledges.
+6. Some process names may not be found and cannot be killed by it image name.
 ```
 Tasklist options:
 ```
