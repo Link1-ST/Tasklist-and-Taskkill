@@ -13,7 +13,7 @@ Instructions for using tasklist and taskkill programs:
 
 NOTE:
 1. These tools only work locally. They prompt users for input (i.e. 0, 1, 2, and 3).  
-2. To run the tools though the commandlime:
+2. To run the tools though the command line:
    a. tasklist-v1.0.exe 
    b. taskkill-v1.0.exe
 4. Some process information may not be found and returns Unknown.  
