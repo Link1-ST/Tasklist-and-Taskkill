@@ -26,7 +26,6 @@ Tasklist options:
 1. /S returns all the running processes
 2. /SVC returns information for each process without truncation 
 3. /V returns verbose task information
-
 ![Taskkill Menu](https://user-images.githubusercontent.com/82185592/118516679-8a1f6e80-b704-11eb-9d63-5f3d5572f3bc.jpg)
 ```
 Taskkill options:
